@@ -1,9 +1,6 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
-```
+# 📦 ChatGPT Data Analyser
 
-Description of the app ...
+Alows the user to upload a csv file and ask ChatGPT questions about the dataset.
 
 ## Demo App
 
